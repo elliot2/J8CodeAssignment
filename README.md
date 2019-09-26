@@ -39,7 +39,7 @@ TX10005, ACC334455, ACC778899, 21/10/2018 09:30:00, 7.25, PAYMENT
 It may be slightly over complicating processing, however I believe for this fairly simple system to perform with relative consistency, it
 needs to process all payments, regardless of the accounts, in specified date range period, for the reflected account to have balance integrity.
 
-That is unreleated to accounts to what the user has selected, can and will given multiple shifts of payments, have direct result on the selected account.
+That is unreleated accounts to what the user has selected, can and will given multiple payments, have direct result on the selected account.
 
 
 Impacted account balances 3, transactions processed 2, reported number of transactions 1  :
