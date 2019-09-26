@@ -46,9 +46,18 @@ The **Acceptance Criteria** indicates the output should say **Number of transact
 I am deducing that this number is the number of transactions impacting ACC334455 in the scenerio provided, out of possibly many
 more transactions processed?
 
-
-## Running from the jar
-java -jar libs\challenge-1.0-SNAPSHOT.jar
+## Running unit tests
+```
+gradlew test
+```
 
 ## Running through gradle
+```
 gradlew run --console=plain
+```
+
+## Running from the jar
+```
+gradlew build jar
+java -jar libs\challenge-1.0-SNAPSHOT.jar
+```
