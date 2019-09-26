@@ -1,13 +1,6 @@
 # ME Bank Coding Challenge
 
 
-## Running from the jar
-java -jar libs\challenge-1.0-SNAPSHOT.jar
-
-## Running through gradle
-gradlew run --console=plain
-
-
 ## Scenario As a user I enter the following input :
     accountId: ACC334455
     from: 20/10/2018 12:00:00
@@ -54,3 +47,8 @@ I am deducing that this number is the number of transactions impacting ACC334455
 more transactions processed?
 
 
+## Running from the jar
+java -jar libs\challenge-1.0-SNAPSHOT.jar
+
+## Running through gradle
+gradlew run --console=plain
