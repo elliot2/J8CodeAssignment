@@ -1,5 +1,6 @@
 # ME Bank Coding Challenge
 
+
 ## Running from the jar
 java -jar libs\challenge-1.0-SNAPSHOT.jar
 
