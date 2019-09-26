@@ -1,5 +1,7 @@
 # ME Bank Coding Challenge
 
+Plain Java8
+
 
 ## Scenario As a user I enter the following input :
     accountId: ACC334455
